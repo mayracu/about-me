@@ -8,12 +8,12 @@ I built an “About Me” webpage that quizzes the user on fun facts and gives t
 
 ### Links and Resources
 
-* [Project GitHub link](https://github.com/mayracu/about-me/blob/main/README.md)
+* [Project GitHub link](https://github.com/mayracu/about-me/tree/main)
 
 ### Lighthouse Accessibility Report Score
 
-![Accesibility score of website](img/screenShotProject1.JPG "Accesibility score")
+![Accesibility score of website](img/CaptureProjectAccessibility.JPG "Accesibility score")
 
 ### Reflections and Comments
 
-* I enjoyed putting in practice the concepts and topics covered in the lesson such as conditional statements, variables, CSS and HTML.
+* I enjoyed putting in practice the concepts and topics covered in the lesson such as loops, conditional statements, variables, CSS and HTML.
