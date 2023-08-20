@@ -1,11 +1,18 @@
 body {
   background-color:#6DB6F2;
+  font-size: 1.5vw;
 }
 
 h1{
   font-size: 3vw;
   padding:20px 20px 20px;
   color:264270;
+}
+
+h2{
+  padding:20px 20px 20px;
+  color: #72312A;
+  font-size: 2vw;
 }
 
 p{
@@ -20,3 +27,32 @@ article{
   padding:20px 20px 20px 20px;
   width: 95%;
 }
+
+
+ul {
+  background-color:#6DB6F2; 
+  padding:10px 10px 10px 40px;
+  list-style: circle;
+}
+
+
+
+
+li {
+  padding:5px 5px 5px 5px;
+}
+
+
+section {
+    margin: 0 auto;
+    border: 5px solid #325470;
+    padding:20px 20px 20px 20px;
+    width: 95%;
+  }
+
+ol {
+    background-color:#6DB6F2; 
+    padding:10px 10px 10px 40px;
+    list-style: upper-roman;
+}
+
